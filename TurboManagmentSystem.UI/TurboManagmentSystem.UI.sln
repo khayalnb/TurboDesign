@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurboManagmentSystem.UI", "TurboManagmentSystem.UI\TurboManagmentSystem.UI.csproj", "{4D2E4498-116B-4DB2-B752-65D3182F6530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboManagment.BLL", "TurboManagment.BLL\TurboManagment.BLL.csproj", "{12F91D27-87EB-44C3-92E1-80798D6A694B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2E4498-116B-4DB2-B752-65D3182F6530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2E4498-116B-4DB2-B752-65D3182F6530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2E4498-116B-4DB2-B752-65D3182F6530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2E4498-116B-4DB2-B752-65D3182F6530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F91D27-87EB-44C3-92E1-80798D6A694B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F91D27-87EB-44C3-92E1-80798D6A694B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F91D27-87EB-44C3-92E1-80798D6A694B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F91D27-87EB-44C3-92E1-80798D6A694B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C6964E-7C29-41F7-9148-6F4E7FF9EF3E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TurboManagmentSystem.UI/1.0.0": {
+        "dependencies": {
+          "TurboManagment.BLL": "1.0.0"
+        },
+        "runtime": {
+          "TurboManagmentSystem.UI.dll": {}
+        }
+      },
+      "TurboManagment.BLL/1.0.0": {
+        "runtime": {
+          "TurboManagment.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TurboManagmentSystem.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TurboManagment.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

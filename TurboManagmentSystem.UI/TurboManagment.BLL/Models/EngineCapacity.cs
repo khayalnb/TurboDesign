@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TurboManagment.BLL.Models
+{
+    public class EngineCapacity:BaseIDGenerator
+    {
+        public short Capacity { get; set; }
+    }
+}
