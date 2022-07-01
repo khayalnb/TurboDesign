@@ -12,7 +12,7 @@ namespace TurboManagment.BLL.ServiceOperationManager
             Model model = new Model();
             Console.WriteLine(WarningAndErrorMessages.enterMessage);
             model.Name = Console.ReadLine();
-            while (!string.IsNullOrWhiteSpace(model.Name))
+            while (string.IsNullOrWhiteSpace(model.Name))
             {
                 Console.WriteLine(WarningAndErrorMessages.emptyValueMessage);
                 model.Name = Console.ReadLine();

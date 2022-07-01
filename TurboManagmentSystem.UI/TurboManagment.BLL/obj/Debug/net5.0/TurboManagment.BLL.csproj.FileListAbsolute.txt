@@ -10,3 +10,15 @@ C:\Users\ASUS\source\repos\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\
 C:\Users\ASUS\source\repos\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\ref\TurboManagment.BLL.dll
 C:\Users\ASUS\source\repos\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\TurboManagment.BLL.pdb
 C:\Users\ASUS\source\repos\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\refint\TurboManagment.BLL.dll
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\bin\Debug\net5.0\TurboManagment.BLL.deps.json
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\bin\Debug\net5.0\TurboManagment.BLL.dll
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\bin\Debug\net5.0\TurboManagment.BLL.pdb
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\TurboManagment.BLL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\TurboManagment.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\TurboManagment.BLL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\TurboManagment.BLL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\TurboManagment.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\TurboManagment.BLL.dll
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\refint\TurboManagment.BLL.dll
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\TurboManagment.BLL.pdb
+C:\Users\ASUS\Desktop\Turbo\TurboManagmentSystem.UI\TurboManagment.BLL\obj\Debug\net5.0\ref\TurboManagment.BLL.dll

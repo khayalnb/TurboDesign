@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\TurboManagmentSystem.UI\\TurboManagment.BLL\\TurboManagment.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Turbo\\TurboManagmentSystem.UI\\TurboManagment.BLL\\TurboManagment.BLL.csproj",
       "projectName": "TurboManagment.BLL",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\TurboManagmentSystem.UI\\TurboManagment.BLL\\TurboManagment.BLL.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Turbo\\TurboManagmentSystem.UI\\TurboManagment.BLL\\TurboManagment.BLL.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\TurboManagmentSystem.UI\\TurboManagment.BLL\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Turbo\\TurboManagmentSystem.UI\\TurboManagment.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

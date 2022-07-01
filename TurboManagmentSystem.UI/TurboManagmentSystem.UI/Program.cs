@@ -8,11 +8,7 @@ namespace TurboManagmentSystem.UI
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
-            EnginePowerManager.AddEnginePower();
-            EnginePowerManager.ShowEnginePower();
-
-
+            BaseManager.ShowAllProductInfo();
         }
     }
 }

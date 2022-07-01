@@ -12,6 +12,6 @@ namespace TurboManagment.BLL.Models
         {
             CarSupplyList=new List<string>();
         }
-        List<string> CarSupplyList { get; set; }
+        public List<string> CarSupplyList { get; set; }
     }
 }
